@@ -11,7 +11,7 @@ lot_size = 50  # Replace with your desired lot size
 # The general URL for fetching NIFTY options data
 url = "https://www.nseindia.com/api/option-chain-indices?symbol=NIFTY"
 
-# Headers to mimic a browser visit
+#browser visit
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36",
     "Accept-Language": "en-US,en;q=0.9",
