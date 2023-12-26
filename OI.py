@@ -1,6 +1,6 @@
 import sys
-sys.path.append("/usr/local/lib/python3.10/dist-packages")
-sys.path.append("/local/lib/python3.10/site-packages")
+#sys.path.append("/usr/local/lib/python3.10/dist-packages")
+#sys.path.append("/local/lib/python3.10/site-packages")
 import requests
 import plotly.graph_objects as go
 
